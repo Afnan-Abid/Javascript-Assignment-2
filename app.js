@@ -44,7 +44,7 @@ console.log(names1 , product1 , product2  ,price1  , price2 )*/
 
 
 
-var names1 = prompt("Enter your name");
+/*var names1 = prompt("Enter your name");
 var product1 = prompt("Enter product name 1");
 var product2 = prompt("Enter product name 2");
 var price1 = Number(prompt("Enter product 1 price"));
@@ -56,4 +56,23 @@ function Information(names1, product1, product2, price1, price2) {
 
 var info = Information(names1, product1, product2, price1, price2);
 
-console.log(info);
+console.log(info);*/
+
+
+const h1 = document.querySelector('#head');
+h1.innerHTML = 'changes through javascript'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
